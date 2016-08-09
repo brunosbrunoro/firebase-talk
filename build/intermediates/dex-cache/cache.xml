@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f82d10340bb80383e8b8359a07caf70dbd4e2164.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_55b52ebefdb7405feea1ec9518cb2f321136ef2e.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_ba3faffee48bc9e909e202a4cc1a9127b2b04bdc.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_30cac55349e4d324436d3913f965904183dd2521.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_98d0b9c118f734bc2ba7e08c41117e27b39243eb.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.4.0_ff9fd42b0e0fed77328e4dfcdcdfe88c60331f50.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_7bbda36e8d34ea6e3c1afb913f11673aaa3d0cd1.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.4.0_e82bf105224c232d4be54a8344128aeb26ca37d1.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_2406288903baee03b9c6a2d183bc53e2ff0eaba2.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_4509e5c1083503516ba2163f83bb2f4a9e47d182.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_f43a078127d0fc4c2c79a43374e20c510c9da93b.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_48f799e332b0d3771021740becb7ae6ac5c2b294.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_4d2e57606d548cfe8abf5f3ae52935838630fc97.jar" />
+    </item>
+    <item
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_0adbff0d9c0be38556c89ef1c46c8c7e37c442ac.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.4.0_fab8c3cb3584c302fb06dccae3d3129152d1e7b6.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.4.0_182143d769cbfebb8db0491f76854a2c1104c123.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_694701bef6bd713ae430d0c2e2c8015d6bd2298b.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_5ec8df957435c8bcf3329497da8f1bd79b10040a.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.4.0_caa2f2da5ef7754b02b5e9b3bacd915d1a8511d5.jar" />
+    </item>
+    <item
+        jar="/Users/scrok/Firebase-Talk/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/scrok/Firebase-Talk/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_912cfde8799c1f4fb6cd1d2a8ae4df5755caf14d.jar" />
+    </item>
+
+</items>
