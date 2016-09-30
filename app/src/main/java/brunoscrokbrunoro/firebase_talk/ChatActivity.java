@@ -85,6 +85,7 @@ public class ChatActivity extends AppCompatActivity {
                     mensagens.add(mensagem);
                 }
                 adapter.notifyDataSetChanged();
+                lstChat.setSelection(adapter.getCount() - 1);
             }
 
             @Override

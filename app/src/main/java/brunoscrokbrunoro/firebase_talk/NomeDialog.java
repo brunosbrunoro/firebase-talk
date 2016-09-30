@@ -62,7 +62,7 @@ public class NomeDialog extends DialogFragment
                 FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
 
                 UserProfileChangeRequest profileUpdates = new UserProfileChangeRequest.Builder()
-                        .setDisplayName("Bruno")
+                        .setDisplayName(edtNome.getText().toString())
                         .build();
 
                 user.updateProfile(profileUpdates)
