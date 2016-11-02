@@ -8,6 +8,37 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:465311347479:android:0f43de26327b9d34",
+        "android_client_info": {
+          "package_name": "br.com.brunoscrokbrunoro.firebasetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465311347479-nohlmgngt2v7qsv51e2o3fvrlhpdicjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgbg8nZm2ByOjlldYhgP7tyQ1oXtghSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:465311347479:android:f8e75aa69d31537b",
         "android_client_info": {
           "package_name": "brunoscrokbrunoro.firebase_talk"
